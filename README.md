@@ -1,1 +1,1 @@
-# cloud-collection
+# Cloud Collection
