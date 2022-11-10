@@ -35,5 +35,11 @@ A cloud [server](https://www.ibm.com/cloud/learn/cloud-server) is powerful physi
 
 ## Why Cloud Servers?
 - Cost effectiveness
+> With cloud servers, organizations only pay for what they need and reduce the expense that comes with maintaining server hardware.
+
 - Scalability
+> Users can scale computing and storage resources to meet changing needs. This is particularly helpful for organizations with fluctuating needs.
+
+
 - Integration
+> An organization’s cloud servers are networked to ensure uninterrupted communication and fast deployment. A “single pane” enables complete control.
