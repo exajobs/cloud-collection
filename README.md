@@ -14,11 +14,10 @@ The [cloud](https://azure.microsoft.com/en-us/resources/cloud-computing-dictiona
 
 
 ## What are Cloud Servers?
+A cloud server is powerful physical or virtual infrastructure that performs application- and information-processing storage. Cloud servers are created using virtualization software to divide a physical (bare metal) server into multiple virtual servers. 
 
 ![cloudsevers](https://github.com/exajobs/cloud-collection/blob/main/Img/1200px-Cloud_computing.png.png)
-These servers are designed to either store and manage data, run applications, or deliver content or a service such as streaming videos, web mail, office productivity software, or social media. Instead of accessing files and data from a local or personal computer, you are accessing them online from any Internet-capable device—the information will be available anywhere you go and anytime you need it.
-
-
+- These servers are designed to either store and manage data, run applications, or deliver content or a service such as streaming videos, web mail, office productivity software, or social media. Instead of accessing files and data from a local or personal computer, you are accessing them online from any Internet-capable device—the information will be available anywhere you go and anytime you need it.
 
 
 
