@@ -46,6 +46,8 @@ A cloud [server](https://www.ibm.com/cloud/learn/cloud-server) is powerful physi
 
 ## Considerations
 
+![cloudserversconsideration](https://github.com/exajobs/cloud-collection/blob/main/Img/Bare-Metal-Server-vs.-Cloud-Servers.jpg)
+
 - Virtual servers vs. physical servers:
 >  Physical (bare metal) servers are best for data-intensive workloads. Virtual servers are better for highly variable workloads.
 
