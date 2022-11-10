@@ -43,3 +43,17 @@ A cloud [server](https://www.ibm.com/cloud/learn/cloud-server) is powerful physi
 
 - Integration
 > An organization’s cloud servers are networked to ensure uninterrupted communication and fast deployment. A “single pane” enables complete control.
+
+## Considerations
+
+- Virtual servers vs. physical servers:
+>  Physical (bare metal) servers are best for data-intensive workloads. Virtual servers are better for highly variable workloads.
+
+- Virtualization:
+> Cloud servers can be physical or virtual. Virtualization software options include VMware, Parallels, and Hyper-V.
+
+- Customization:
+>  Physical servers have numerous customization options, such as more processing power, additional RAM, and backup power.
+
+- Security:
+> Security options for cloud servers include firewalls, anti-virus software, monitoring, and host intrusion protection
