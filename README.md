@@ -34,3 +34,6 @@ A cloud [server](https://www.ibm.com/cloud/learn/cloud-server) is powerful physi
 - Users can opt for a shared hosting plan that scales depending on needs
 
 ## Why Cloud Servers?
+- Cost effectiveness
+- Scalability
+- Integration
