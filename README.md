@@ -8,4 +8,6 @@ Welcome to the Cloud Collection. An ongoing curated list of awesome frameworks, 
 ## Table of Contents
 
 ## What is the cloud?
-The cloud is not a physical entity, but instead is a vast network of remote servers around the globe which are hooked together and meant to operate as a single ecosystem.
+The [cloud](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud) is not a physical entity, but instead is a vast network of remote servers around the globe which are hooked together and meant to operate as a single ecosystem.
+
+## What are Cloud Servers?
