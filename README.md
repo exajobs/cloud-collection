@@ -25,6 +25,12 @@ A cloud server is powerful physical or virtual infrastructure that performs appl
 
 
 
-## What is Cloud Computing?
+## Key features of Cloud Servers
+Computing infrastructure that can be physical (bare metal), virtual, or a mix of the two depending on use case
+Has all the capabilities of an on-premises server
+Enables users to process intensive workloads and store large volumes of information
+Automated services are accessed on demand through an API
+Gives users the choice of monthly or as-you-go payment
+Users can opt for a shared hosting plan that scales depending on needs
 
-![cloud](https://github.com/exajobs/cloud-collection/blob/main/Img/cloud.png)
+## Why Cloud Servers?
