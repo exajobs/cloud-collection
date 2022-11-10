@@ -18,7 +18,7 @@ The [cloud](https://azure.microsoft.com/en-us/resources/cloud-computing-dictiona
 
 
 ## What are Cloud Servers?
-A cloud server is powerful physical or virtual infrastructure that performs application- and information-processing storage. Cloud servers are created using virtualization software to divide a physical (bare metal) server into multiple virtual servers. 
+A cloud [server](https://www.ibm.com/cloud/learn/cloud-server) is powerful physical or virtual infrastructure that performs application- and information-processing storage. Cloud servers are created using virtualization software to divide a physical (bare metal) server into multiple virtual servers. 
 
 ![cloudsevers](https://github.com/exajobs/cloud-collection/blob/main/Img/1200px-Cloud_computing.png.png)
 - These servers are designed to either store and manage data, run applications, or deliver content or a service such as streaming videos, web mail, office productivity software, or social media. Instead of accessing files and data from a local or personal computer, you are accessing them online from any Internet-capable device—the information will be available anywhere you go and anytime you need it.
@@ -26,11 +26,11 @@ A cloud server is powerful physical or virtual infrastructure that performs appl
 
 
 ## Key features of Cloud Servers
-Computing infrastructure that can be physical (bare metal), virtual, or a mix of the two depending on use case
-Has all the capabilities of an on-premises server
-Enables users to process intensive workloads and store large volumes of information
-Automated services are accessed on demand through an API
-Gives users the choice of monthly or as-you-go payment
-Users can opt for a shared hosting plan that scales depending on needs
+- Computing infrastructure that can be physical (bare metal), virtual, or a mix of the two depending on use case
+- Has all the capabilities of an on-premises server
+- Enables users to process intensive workloads and store large volumes of information
+- Automated services are accessed on demand through an API
+- Gives users the choice of monthly or as-you-go payment
+- Users can opt for a shared hosting plan that scales depending on needs
 
 ## Why Cloud Servers?
