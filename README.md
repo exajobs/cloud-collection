@@ -10,6 +10,16 @@ Welcome to the Cloud Collection. An ongoing curated list of awesome frameworks, 
 ## What is the cloud?
 The [cloud](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud) is not a physical entity, but instead is a vast network of remote servers around the globe which are hooked together and meant to operate as a single ecosystem.
 
+![cloudnetwork](https://github.com/exajobs/cloud-collection/blob/main/Img/cloud_network.jpg)
+
 ![cloud](https://github.com/exajobs/cloud-collection/blob/main/Img/cloud.png)
 
 ## What are Cloud Servers?
+
+
+
+
+
+## What is Cloud Computing?
+
+![cloud](https://github.com/exajobs/cloud-collection/blob/main/Img/cloud.png)
